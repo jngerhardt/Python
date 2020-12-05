@@ -6,12 +6,13 @@ Fill in this outline as the instructor goes through the lesson.
 #1)
 #Make an example variable of each of the types of variables (int, float, 
 #string, boolean and list):
-#string
+#int
 
 a = 5
+#floats
 a = 3.45
 
-#float
+#string
 name = "jayden"
 
 #boolean
